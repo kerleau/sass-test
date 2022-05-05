@@ -1,0 +1,32 @@
+header {
+  background-color: lightblue;
+  text-align: center; }
+  header nav {
+    text-align: center; }
+    header nav a {
+      font-family: 'Courier New', Courier, monospace; }
+      header nav a:hover {
+        color: #4285f4;
+        background-color: #ff9a3e; }
+
+body {
+  background-color: violet; }
+
+p {
+  font-size: 16px;
+  margin: 25px 50px 75px 100px; }
+
+header, footer {
+  background-color: lightblue;
+  text-align: center; }
+  header nav, footer nav {
+    text-align: center; }
+    header nav a, footer nav a {
+      font-family: 'Courier New', Courier, monospace; }
+      header nav a:hover, footer nav a:hover {
+        color: #4285f4;
+        background-color: #ff9a3e; }
+
+* {
+  margin: 0;
+  padding: 0; }
